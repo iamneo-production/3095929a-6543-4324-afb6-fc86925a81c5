@@ -1,5 +1,3 @@
-select * from airline;
--- Oracle Workspace Queries 
 
 SET TIMING ON;
 
