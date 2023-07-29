@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 select * from airline;
 -- Oracle Workspace Queries 
+=======
+>>>>>>> origin/Oracle-Workspace-venunakka
 
 SET TIMING ON;
 
@@ -21,5 +24,17 @@ SELECT COUNT(*) AS NO_OF_CHILDS FROM AIRLINE WHERE AGE<13;
 
 -- 5. WRITE A SQL QUERY TO COUNT OF PASSENGERS WHO ARE ABOVE THE AGE OF 16 AND HAVE BOOKED TICKETS IN BUSINESS CLASS?
 
+<<<<<<< HEAD
 SELECT COUNT(*) AS ADULT_BUSINESS_CLASS FROM AIRLINE WHERE AGE>16 AND CLASS='Busi
 ness';
+=======
+<<<<<<<< HEAD:venu_airline.sql
+SELECT COUNT(*) AS ADULT_BUSINESS_CLASS FROM AIRLINE WHERE AGE>16 AND CLASS='Business';
+========
+<<<<<<< HEAD:Airline_Nithyashree_sql
+SELECT COUNT(*) AS ADULT_BUSINESS_CLASS FROM AIRLINE WHERE AGE>16 AND CLASS='Business';
+=======
+SELECT COUNT(*) AS ADULT_BUSINESS_CLASS FROM AIRLINE WHERE AGE>16 AND CLASS='Business';
+>>>>>>> bff2e8c22ed675b890f52e9cc1e0406b9debfddf:Airlines_Nandhini.sql
+>>>>>>>> origin/Oracle-Workspace-venunakka:Airline_Nithyashree_sql
+>>>>>>> origin/Oracle-Workspace-venunakka
