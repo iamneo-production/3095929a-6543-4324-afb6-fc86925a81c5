@@ -1,3 +1,4 @@
+
 -- Oracle Workspace Queries 
 
 SET TIMING ON;
