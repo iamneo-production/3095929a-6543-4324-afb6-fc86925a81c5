@@ -1,4 +1,3 @@
-
 set timing on;
 
 -- 1.Write a SQL Query to find the number of female passengers who have made bookings for air  tickets?
@@ -38,4 +37,3 @@ SELECT COUNT(*) AS BUSINESS_CLASS FROM AIRLINE WHERE AGE>16 AND CLASS='Business'
 CREATE BITMAP INDEX IDX2 ON AIRLINE(AGE,CLASS);
 DROP INDEX IDX2;
 -- Elapsed:  00:00:00:03
-
