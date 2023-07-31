@@ -5,3 +5,4 @@ Black Hawk is a team of skilled and innovative developers who come together to t
 
 
 https://sonarcloud.io/summary/overall?id=examly-test_3095929a-6543-4324-afb6-fc86925a81c5
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/new_code?id=iamneo-production_3095929a-6543-4324-afb6-fc86925a81c5)
